@@ -1,161 +1,166 @@
 <h1 align="center">Hi 👋, I'm Akilesh Gowda K S</h1>
 
+<h3 align="center">
+Software Developer • AI Enthusiast • Problem Solver
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Software+Developer;AI+%26+GenAI+Enthusiast;Full+Stack+Developer;B.Tech+CSE+%40+PES+University;Building+Real-World+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Solutions;Full+Stack+Developer;GenAI+Explorer;Turning+Ideas+Into+Products;Future+Software+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhigowda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<a href="https://github.com/akhigowda">
+<img src="https://img.shields.io/github/followers/akhigowda?label=Followers&style=for-the-badge" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=akhigowda&style=for-the-badge&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🧑‍💻 Developer Profile
 
-```yaml
-Name: Akilesh Gowda K S
+```javascript
+const akilesh = {
+    location: "India 🇮🇳",
+    education: "B.Tech CSE @ PES University",
+    graduation: 2027,
 
-Education:
-  Degree: B.Tech in Computer Science & Engineering
-  University: PES University
-  Graduation: 2027
+    interests: [
+        "Software Development",
+        "Artificial Intelligence",
+        "Generative AI",
+        "System Design",
+        "Startups"
+    ],
 
-Current Focus:
-  - Software Development
-  - Artificial Intelligence
-  - Generative AI
-  - Full Stack Development
+    currentlyBuilding: "SafeHer",
+    startupIdea: "ServeConnect",
 
-Currently Working On:
-  - SafeHer – AI-Powered Women's Safety System
+    currentlyLearning: [
+        "Node.js",
+        "Express",
+        "Flutter",
+        "System Design",
+        "DSA",
+        "GenAI"
+    ],
 
-Currently Learning:
-  - Node.js
-  - Express.js
-  - REST APIs
-  - Flutter
-  - System Design
-  - Data Structures & Algorithms
-  - Generative AI
-
-Looking To:
-  - Collaborate on AI & Full Stack Projects
-  - Contribute to Open Source
-  - Build Real-World Solutions
-
-Fun Fact:
-  - I enjoy turning hackathon ideas into working prototypes 🚀
+    goal: "Become a world-class Software Engineer"
+};
 ```
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Current Mission
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🛡️ SafeHer
-AI-powered proactive women's safety ecosystem using Smart Gloves, Smart Glasses, IoT, Computer Vision, and Machine Learning.
+
+AI-powered women's safety ecosystem built using:
+
+✔ ESP32
+
+✔ Computer Vision
+
+✔ IoT
+
+✔ Machine Learning
+
+✔ Real-time Alert System
 
 </td>
 
 <td width="50%">
 
-### 🤖 AI Exam Evaluator
-GenAI-based answer evaluation platform using embeddings, vector databases, and automated feedback generation.
+### 💡 ServeConnect
+
+Connecting skilled workers with customers through a modern platform.
+
+Features:
+
+✔ Service Discovery
+
+✔ Booking System
+
+✔ Worker Profiles
+
+✔ Reviews & Ratings
+
+✔ Real-Time Availability
 
 </td>
-</tr>
 
-<tr>
-
-<td width="50%">
-
-### 🏨 Hotel Management System
-DBMS project with room booking, guest management, payment processing, and SQL procedures.
-
-</td>
 </tr>
 </table>
 
 ---
 
-## ⚙️ Tech Stack
+# 🌟 Featured Projects
 
-### Languages
+<div align="center">
+
+| Project | Description |
+|----------|-------------|
+| 🛡️ SafeHer | AI-powered women's safety ecosystem |
+| 💡 ServeConnect | Startup idea connecting service providers and customers |
+| 🤖 AI Exam Evaluator | LLM-powered answer evaluation platform |
+| 🏨 Hotel Management System | Complete DBMS management solution |
+
+</div>
+
+---
+
+# ⚔️ Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java&perline=5" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,react,nodejs,express,mongodb,mysql,postgres,flutter,docker,git,github,linux,aws&perline=9" />
 </p>
 
-### Frontend
+<div align="center">
+
+### AI • Full Stack • IoT • Cloud • Data Analytics
+
+</div>
+
+---
+
+# 📊 GitHub Universe
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&perline=5" />
-</p>
 
-### Backend
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhigowda&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhigowda&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=5" />
-</p>
-
-### Tools & Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws&perline=5" />
-</p>
-
-### AI / Data Engineering
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=opencv&perline=5" />
 </p>
 
 <p align="center">
-Apache Kafka • Pandas • Machine Learning • Generative AI • RAG • LLMs
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhigowda&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🏆 Achievements
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=akhigowda&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhigowda&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhigowda&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akhigowda&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akhigowda&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhigowda&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhigowda&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 Let's Connect
 
 <p align="center">
 
@@ -171,32 +176,14 @@ Apache Kafka • Pandas • Machine Learning • Generative AI • RAG • LLMs
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://leetcode.com/u/akhigowda_2005/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/akhigowda2005">
-<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48" />
-</a>
-
 </p>
-
----
-
-## 📫 Contact
-
-📧 **Email:** akhigowda2005@gmail.com
-
-🌐 **Portfolio:** https://akhigowda.github.io/my_Portfolio/
-
-📄 **Resume:** Add your direct resume PDF link here
 
 ---
 
 <div align="center">
 
-### 💡 Building Solutions • Learning Continuously • Turning Ideas Into Reality
+### 🚀 Building Today For Tomorrow
 
-⭐ If you like my projects, consider giving them a star!
+*"Code. Learn. Build. Repeat."*
 
 </div>
