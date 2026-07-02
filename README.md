@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Akhigowda&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -128,7 +128,7 @@ Complete DBMS solution with booking, payment, room allocation, and guest managem
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c"/>
 
 ### Frontend
 
@@ -153,17 +153,17 @@ Complete DBMS solution with booking, payment, room allocation, and guest managem
 ## 📚 Currently Exploring
 
 ```text
-██████████░░░░ Node.js & Express
+Node.js & Express
 
-█████████░░░░░ Flutter
+Flutter
 
-████████░░░░░░ System Design
+System Design
 
-███████░░░░░░░ Generative AI
+Generative AI
 
-██████░░░░░░░░ Cloud Technologies
+Cloud Technologies
 
-█████████░░░░░ Data Structures & Algorithms
+Data Structures & Algorithms
 ```
 
 ---
