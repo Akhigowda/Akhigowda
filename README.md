@@ -17,11 +17,16 @@
 
 ## 🧭 About
 
-B.Tech Computer Science & Engineering student at PES University (Class of 2027), building
-software at the intersection of AI and real-world impact. Currently deep in IoT + computer
-vision for a safety-tech product, with Node.js, Flutter, and system design in active rotation.
+I'm a Computer Science student at PES University (Class of 2027) who'd rather ship a working
+prototype than talk theory. Most of my time right now goes into **SafeHer**, a safety-tech
+product where I'm the one wiring computer vision into a wearable and figuring out what "real-time"
+actually has to mean when someone's safety depends on it.
 
-> **Mission:** build software that solves problems people actually have.
+Outside of that, I'm sketching out **ServeConnect**, learning system design properly instead of
+piecing it together from blog posts, and slowly getting comfortable with Flutter for the mobile
+side of things I've mostly avoided until now.
+
+> I care less about the tech stack and more about whether the thing actually works when it matters.
 
 <br>
 
@@ -90,7 +95,7 @@ Full DBMS solution covering booking, payments, room allocation, and guest manage
 
 `languages`
 <br>
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c&theme=dark"/>
 
 <br>
 
