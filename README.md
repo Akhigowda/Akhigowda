@@ -119,8 +119,6 @@ Complete DBMS solution with booking, payments, room allocation, and guest manage
 
 <div align="center">
 
-<br><br>
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhigowda&theme=tokyonight&hide_border=true"/>
 
 </div>
