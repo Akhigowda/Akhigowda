@@ -67,9 +67,6 @@ AI-powered proactive safety ecosystem using Smart Gloves and Smart Glasses.
 ### 📝 AI Exam Evaluator
 GenAI-based exam evaluation and feedback generation using LLMs and Vector Search.
 
-### 🎵 Music Streaming System
-TCP Socket-based music streaming platform built using Flask.
-
 ### 🏨 Hotel Management System
 DBMS project with booking, payment, and room management functionalities.
 
