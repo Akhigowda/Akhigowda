@@ -97,7 +97,7 @@ Complete DBMS solution with booking, payments, room allocation, and guest manage
 <div align="center">
 
 **Languages**
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c"/>
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter"/>
