@@ -1,58 +1,56 @@
-<h1 align="center">Hi 👋, I'm Akilesh Gowda K S</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer • AI Enthusiast • Problem Solver
-</h3>
+# 👋 Hi, I'm Akilesh Gowda K S
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Solutions;Full+Stack+Developer;GenAI+Explorer;Turning+Ideas+Into+Products;Future+Software+Engineer" />
-</p>
+### Software Developer • AI Enthusiast • Full Stack Builder • Problem Solver
 
-<p align="center">
-<a href="https://github.com/akhigowda">
-<img src="https://img.shields.io/github/followers/akhigowda?label=Followers&style=for-the-badge" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Solutions;Full+Stack+Developer;Generative+AI+Explorer;Turning+Ideas+Into+Products;Future+Software+Engineer" />
 
-<img src="https://komarev.com/ghpvc/?username=akhigowda&style=for-the-badge&color=blue" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+</div>
 
 ---
 
-# 🧑‍💻 Developer Profile
+## 🖥️ Developer Terminal
 
-```javascript
-const akilesh = {
-    location: "India 🇮🇳",
-    education: "B.Tech CSE @ PES University",
-    graduation: 2027,
+```bash
+> whoami
 
-    interests: [
-        "Software Development",
-        "Artificial Intelligence",
-        "Generative AI",
-        "System Design",
-        "Startups"
-    ],
+Akilesh Gowda K S
 
-    currentlyBuilding: "SafeHer",
-    startupIdea: "ServeConnect",
+> education
 
-    currentlyLearning: [
-        "Node.js",
-        "Express",
-        "Flutter",
-        "System Design",
-        "DSA",
-        "GenAI"
-    ],
+B.Tech Computer Science & Engineering
+PES University (2027)
 
-    goal: "Become a world-class Software Engineer"
-};
+> current_project
+
+SafeHer
+
+> startup_idea
+
+ServeConnect
+
+> currently_learning
+
+Node.js
+Express.js
+Flutter
+System Design
+Generative AI
+DSA
+
+> mission
+
+Build impactful software that solves real-world problems.
 ```
 
 ---
 
-# 🚀 Current Mission
+## 🚀 Current Focus
 
 <table>
 <tr>
@@ -60,17 +58,19 @@ const akilesh = {
 
 ### 🛡️ SafeHer
 
-AI-powered women's safety ecosystem built using:
+AI-powered women's safety ecosystem
 
-✔ ESP32
+🔹 Smart Glove
 
-✔ Computer Vision
+🔹 Smart Glasses
 
-✔ IoT
+🔹 IoT Integration
 
-✔ Machine Learning
+🔹 Computer Vision
 
-✔ Real-time Alert System
+🔹 Real-time Threat Detection
+
+🔹 Emergency Alert System
 
 </td>
 
@@ -78,105 +78,178 @@ AI-powered women's safety ecosystem built using:
 
 ### 💡 ServeConnect
 
-Connecting skilled workers with customers through a modern platform.
+Connecting skilled workers with customers
 
-Features:
+🔹 Service Marketplace
 
-✔ Service Discovery
+🔹 Worker Profiles
 
-✔ Booking System
+🔹 Job Discovery
 
-✔ Worker Profiles
+🔹 Booking System
 
-✔ Reviews & Ratings
+🔹 Ratings & Reviews
 
-✔ Real-Time Availability
+🔹 Real-Time Availability
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Project Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Exam Evaluator
+
+GenAI-powered platform for automated answer evaluation and personalized feedback generation.
+
+</td>
+
+<td width="50%">
+
+### 🏨 Hotel Management System
+
+Complete DBMS solution with booking, payment, room allocation, and guest management.
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-| Project | Description |
-|----------|-------------|
-| 🛡️ SafeHer | AI-powered women's safety ecosystem |
-| 💡 ServeConnect | Startup idea connecting service providers and customers |
-| 🤖 AI Exam Evaluator | LLM-powered answer evaluation platform |
-| 🏨 Hotel Management System | Complete DBMS management solution |
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode"/>
 
 </div>
 
 ---
 
-# ⚔️ Tech Arsenal
+## 📚 Currently Exploring
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,java,react,nodejs,express,mongodb,mysql,postgres,flutter,docker,git,github,linux,aws&perline=9" />
-</p>
+```text
+██████████░░░░ Node.js & Express
+
+█████████░░░░░ Flutter
+
+████████░░░░░░ System Design
+
+███████░░░░░░░ Generative AI
+
+██████░░░░░░░░ Cloud Technologies
+
+█████████░░░░░ Data Structures & Algorithms
+```
+
+---
+
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-### AI • Full Stack • IoT • Cloud • Data Analytics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Universe
+## 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akhigowda&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhigowda&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=akhigowda&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=akhigowda&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7&no-frame=true"/>
 
-# 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhigowda&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-# 🌐 Let's Connect
+## 🎯 2026 Goals
 
-<p align="center">
+- 🚀 Build and launch ServeConnect
+- 🤖 Deep dive into AI & GenAI
+- 📱 Develop production-ready Flutter apps
+- 🌐 Contribute to Open Source
+- 💼 Secure a Software Engineering Internship
+- 🏆 Participate in Hackathons
 
-<a href="https://www.linkedin.com/in/akhigowda">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:akhigowda2005@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/akhigowda">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</p>
+<a href="https://leetcode.com/u/akhigowda_2005/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/akhigowda2005">
+<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48"/>
+</a>
+
+</div>
+
+---
+
+## 💭 Quote I Live By
+
+<div align="center">
+
+> **"Dream big. Start small. Build continuously."**
+
+</div>
 
 ---
 
@@ -184,6 +257,8 @@ Features:
 
 ### 🚀 Building Today For Tomorrow
 
-*"Code. Learn. Build. Repeat."*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Always+Learning...;Always+Building...;Always+Improving..." />
+
+⭐ Thanks for visiting my profile!
 
 </div>
