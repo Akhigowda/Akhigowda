@@ -119,11 +119,6 @@ Complete DBMS solution with booking, payments, room allocation, and guest manage
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhigowda&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhigowda&layout=compact&theme=tokyonight" />
-
-
 <br><br>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akhigowda&theme=tokyonight&hide_border=true"/>
@@ -140,17 +135,6 @@ Complete DBMS solution with booking, payments, room allocation, and guest manage
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akhigowda&theme=tokyonight&row=1&column=7&no-frame=true"/>
-
-</div>
-
----
 
 ## 🎯 2026 Goals
 
