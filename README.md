@@ -4,7 +4,7 @@
 
 ### Software Developer • AI Enthusiast • Full Stack Builder • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Solutions;Full+Stack+Developer;Generative+AI+Explorer;Turning+Ideas+Into+Products;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Solutions;Full+Stack+Developer;Generative+AI+Explorer;Turning+Ideas+Into+Products" />
 
 <br>
 
@@ -14,37 +14,25 @@
 
 ---
 
-## 🖥️ Developer Terminal
+## 🖥️ Quick Intro
 
 ```bash
 > whoami
-
 Akilesh Gowda K S
 
 > education
+B.Tech Computer Science & Engineering, PES University (2027)
 
-B.Tech Computer Science & Engineering
-PES University (2027)
+> building_now
+SafeHer — AI-powered women's safety ecosystem
 
-> current_project
+> exploring
+ServeConnect — an idea for a skilled-worker service marketplace
 
-SafeHer
-
-> startup_idea
-
-ServeConnect
-
-> currently_learning
-
-Node.js
-Express.js
-Flutter
-System Design
-Generative AI
-DSA
+> learning
+Node.js · Express.js · Flutter · System Design · Generative AI · DSA
 
 > mission
-
 Build impactful software that solves real-world problems.
 ```
 
@@ -54,43 +42,28 @@ Build impactful software that solves real-world problems.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ SafeHer
-
 AI-powered women's safety ecosystem
 
-🔹 Smart Glove
-
-🔹 Smart Glasses
-
-🔹 IoT Integration
-
-🔹 Computer Vision
-
-🔹 Real-time Threat Detection
-
-🔹 Emergency Alert System
+- Smart Glove & Smart Glasses
+- IoT integration
+- Computer vision
+- Real-time threat detection
+- Emergency alert system
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💡 ServeConnect
-
 Connecting skilled workers with customers
 
-🔹 Service Marketplace
-
-🔹 Worker Profiles
-
-🔹 Job Discovery
-
-🔹 Booking System
-
-🔹 Ratings & Reviews
-
-🔹 Real-Time Availability
+- Service marketplace
+- Worker profiles & job discovery
+- Booking system
+- Ratings & reviews
+- Real-time availability
 
 </td>
 </tr>
@@ -102,19 +75,16 @@ Connecting skilled workers with customers
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Exam Evaluator
-
 GenAI-powered platform for automated answer evaluation and personalized feedback generation.
 
 </td>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🏨 Hotel Management System
-
-Complete DBMS solution with booking, payment, room allocation, and guest management.
+Complete DBMS solution with booking, payments, room allocation, and guest management.
 
 </td>
 </tr>
@@ -122,58 +92,34 @@ Complete DBMS solution with booking, payment, room allocation, and guest managem
 
 ---
 
-## ⚔️ Tech Arsenal
+## ⚔️ Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,java"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c"/>
-
-### Frontend
-
+**Frontend**
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter"/>
 
-### Backend
-
+**Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
-### Databases
-
+**Databases**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 
-### Tools & Platforms
-
+**Tools & Platforms**
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode"/>
 
 </div>
 
 ---
 
-## 📚 Currently Exploring
-
-```text
-Node.js & Express
-
-Flutter
-
-System Design
-
-Generative AI
-
-Cloud Technologies
-
-Data Structures & Algorithms
-```
-
----
-
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akhigowda&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhigowda&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
@@ -207,11 +153,11 @@ Data Structures & Algorithms
 ## 🎯 2026 Goals
 
 - 🚀 Build and launch ServeConnect
-- 🤖 Deep dive into AI & GenAI
-- 📱 Develop production-ready Flutter apps
-- 🌐 Contribute to Open Source
-- 💼 Secure a Software Engineering Internship
-- 🏆 Participate in Hackathons
+- 🤖 Go deeper on AI & GenAI
+- 📱 Ship production-ready Flutter apps
+- 🌐 Contribute to open source
+- 💼 Land a software engineering internship
+- 🏆 Compete in hackathons
 
 ---
 
@@ -219,22 +165,18 @@ Data Structures & Algorithms
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/akhigowda/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="mailto:akhigowda2005@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Akhigowda">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 <a href="https://leetcode.com/u/akhigowda_2005/">
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
 </a>
-
 <a href="https://www.hackerrank.com/profile/akhigowda2005">
 <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="48"/>
 </a>
@@ -243,21 +185,9 @@ Data Structures & Algorithms
 
 ---
 
-## 💭 Quote I Live By
-
 <div align="center">
 
 > **"Dream big. Start small. Build continuously."**
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Building Today For Tomorrow
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Always+Learning...;Always+Building...;Always+Improving..." />
 
 ⭐ Thanks for visiting my profile!
 
